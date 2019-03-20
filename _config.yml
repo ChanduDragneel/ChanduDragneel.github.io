@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Drake Everton
+description: a blog by chandu
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -20,9 +20,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: DrakeEverton
+  twitter: Drake_007
+  facebook: 
+  email: lelouch573@protonmail.ch
 
 google_analytics: "UA-58263416-1"
