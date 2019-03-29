@@ -1,7 +1,7 @@
-title: Drake Everton
+title: Chandu Dragneel
 description: a blog by chandu
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://chandudragneel.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,7 +20,7 @@ navigation:
     url: /contact
 
 social:
-  github: DrakeEverton
+  github: Chandu Dragneel
   twitter: Drake_007
   facebook: 
   email: lelouch573@protonmail.ch
